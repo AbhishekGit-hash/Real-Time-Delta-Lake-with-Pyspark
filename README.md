@@ -1,1 +1,1 @@
-# Real-Time-Delta-Lake-with-Pyspark
+# Real-Time Delta Lake with Pyspark
